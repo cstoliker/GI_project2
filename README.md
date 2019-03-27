@@ -1,7 +1,7 @@
 # GI_project2
-Repository for Game Implementation project 2
-cas363
-Farm Thieves
+# Repository for Game Implementation project 2
+# cas363
+# Farm Thieves
 
 To begin the game, press the spacebar.
 To pause the game, press escape.
